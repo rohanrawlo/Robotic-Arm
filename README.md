@@ -9,6 +9,7 @@ Robotic-Arm(An IOT Project)
      ✅ Few Jumper Wires 
      ✅ 5V AC DC Adapter
 
+To Control Robotic Arm: 192.168.4.1(This address should be pasted on Chrome to access the control of robotic arm).
 
 
 
