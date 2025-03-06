@@ -35,8 +35,8 @@ bool playRecordedSteps = false;
 
 unsigned long previousTimeInMilli = millis();
 
-const char* ssid     = "RobotArm";
-const char* password = "12345678";
+const char* ssid     = "[Give name to your Robotic Arm]";
+const char* password = "[Add password]";
 
 AsyncWebServer server(80);
 AsyncWebSocket wsRobotArmInput("/RobotArmInput");
